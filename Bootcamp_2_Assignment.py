@@ -5,7 +5,7 @@
 ### Division
 ### Modulus
 ### Display the results for each operation.
-from xml.sax.handler import property_interning_dict
+
 
 # A = float(input("Enter fist number: "))
 # B = float(input("Enter second number: "))
