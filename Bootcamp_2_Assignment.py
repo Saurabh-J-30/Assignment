@@ -6,10 +6,9 @@
 ### Modulus
 ### Display the results for each operation.
 
-
 # A = float(input("Enter fist number: "))
 # B = float(input("Enter second number: "))
-
+#
 # print ("Sum: ", A+B)
 # print ("Subtraction: ", A-B)
 # print ("Multiplication: ", A * B)
@@ -19,7 +18,6 @@
 ### Question 2: Write a Python program that checks whether a given number is even or odd using the modulus operator.
 
 # A = float (input("Enter the number to check if it is even or odd: "))
-# B = 0
 # if A % 2 == 0 :
 #     print ("A is even")
 # else: print ("A is odd")
@@ -57,8 +55,7 @@
 # file.write("Hello, this is a sample file.")
 # file.close()
 # file = open("sample.txt", "r")
-# content = file.read()
-# print (content)
+# print (file.read())
 # file.close()
 
 ### Question 6: Write a Python program that reads a text file called data.txt and counts the number of words in the file.
@@ -87,3 +84,5 @@
 # Number = int(input("Enter the number for multiplication table:"))
 # for i in range(1,11):
 #     print (Number, 'X', i, '=', Number*i)
+
+
