@@ -4,9 +4,11 @@
 
 ### Write a Python function to multiply all the numbers in a list.
 # def multiply(a,b,c,d,e):
-#     return a*b*c*d*e
-# result = multiply(8,2,3,-1,7)
-# print (result)
+#     result = a*b*c*d*e
+#     print (result)
+# result1 = multiply(8,2,3,-1,7)
+# result2 = multiply(1,2,3,4,5)
+
 
 ### Write a Python program to reverse a string. (need to check)
 # def reverse(s):
